@@ -15,6 +15,7 @@ A Minecraft kit-delivery bot for the anarchy server **6b6t**. It manages:
 - Automatic reconnect + return-to-home recovery,
 - Cooldown-aware delivery scheduling,
 - A 30-minute gated public-chat advertiser.
+- Bot req a prime rank
 
 ---
 
