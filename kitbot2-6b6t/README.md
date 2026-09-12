@@ -2,6 +2,14 @@
 
 Mineflayer + discord.js kit-delivery bot for anarchy server `6b6t`.
 
+## 🚀 Powered By & Support
+
+This project leverages [xKiro](https://xkiro.com/ref/7N2RAQH) to [insert brief description of what xKiro does, e.g., optimize workflows / manage deployments]. 
+
+If you want to try it out or scale your own infrastructure, consider signing up through our link to support this project:
+👉 **[Get Started on xKiro](https://xkiro.com/ref/7N2RAQH)**
+
+
 ## Requirements
 - Node.js 18+
 - A Minecraft account for the bot (offline/cracked or Microsoft, per `MC_AUTH`)
@@ -64,10 +72,3 @@ All state (kits, verified, tokens, queue, stats, ads) is JSON in `data/`. `creat
 
 ## Note bonus
 its all made by ai 
-
-## 🚀 Powered By & Support
-
-This project leverages [xKiro](https://xkiro.com/ref/7N2RAQH) to [insert brief description of what xKiro does, e.g., optimize workflows / manage deployments]. 
-
-If you want to try it out or scale your own infrastructure, consider signing up through our link to support this project:
-👉 **[Get Started on xKiro](https://xkiro.com/ref/7N2RAQH)**
