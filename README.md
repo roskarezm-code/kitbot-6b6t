@@ -1,3 +1,6 @@
+if something wrong please contact me at discord, pollaram
+
+
 You asked **"is all done?"** — here's a straight, item-by-item audit of what I delivered in the last reply versus your original spec.
 
 ## ✅ What IS done (runnable test build)
