@@ -1,0 +1,29 @@
+{
+  "host": "join.6b6t.org",
+  "port": 25565,
+  "username": "xkitbotx",
+  "auth": "offline",
+  "password": "changeme",
+  "version": "1.21.11",
+  "autoHome": false,
+  "prefix": ".x",
+  "discordLink": "discordLink",
+  "admins": ["YourMcName"],
+  "owners": ["YourMcName"],
+  "boosters": [],
+  "startingTokens": 10,
+  "kitsMax": { "normal": 3, "booster": 10, "owner": 50 },
+  "cooldowns": { "home": 300, "tpa": 420, "kill": 0 },
+  "advertiser": {
+    "enabled": false,
+    "intervalMinutes": 30,
+    "messages": [
+      "Need a free kit? Join https://discord.gg/sEMBdz86q → verify → get your tokens → order with .xkit. No bullshit, just kits.",
+      "Running low on gear? Get a free kit from our kitbot. Join https://discord.gg/sEMBdz86q, verify, and place your order with .xkit.",
+      "FREE KIT SERVICE — Verify on https://discord.gg/sEMBdz86q, receive your tokens and order directly through the bot. Check .xkit after verification.",
+      "Need gear? We've got kits. Join https://discord.gg/sEMBdz86q → verify → .xkit → choose your kit.",
+      "FREE KITS! Join https://discord.gg/sEMBdz86q → verify → get your tokens → order your kit with .xkit. Fast, simple, no bullshit."
+    ]
+  },
+  "delivery": { "chunkWaitMs": 1500, "sneakMs": 1000, "pickupTimeoutMs": 10000 }
+}

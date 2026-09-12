@@ -1,0 +1,5 @@
+{
+  "starter": { "stock": 10, "price": 1, "restockMinutes": 60, "items": [{"name":"stone_sword","count":1},{"name":"bread","count":16}] },
+  "diamond":  { "stock": 5,  "price": 1, "restockMinutes": 120, "items": [{"name":"diamond_sword","count":1},{"name":"diamond_helmet","count":1}] },
+  "netherite":{ "stock": 2,  "price": 1, "restockMinutes": 240, "items": [{"name":"netherite_sword","count":1},{"name":"netherite_helmet","count":1}] }
+}
