@@ -1,3 +1,10 @@
+## 🚀 Powered By & Support
+
+This project leverages [xKiro](https://xkiro.com/ref/7N2RAQH) to [insert brief description of what xKiro does, e.g., optimize workflows / manage deployments]. 
+
+If you want to try it out or scale your own infrastructure, consider signing up through our link to support this project:
+👉 **[Get Started on xKiro](https://xkiro.com/ref/7N2RAQH)**
+
 if something wrong please contact me at discord, pollaram
 
 
