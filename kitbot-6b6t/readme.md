@@ -61,7 +61,7 @@ Replace `YourMcName` with your **Minecraft** name (admin/owner). Set `password` 
   "version": "1.21.11",
   "autoHome": false,
   "prefix": ".x",
-  "discordLink": "https://discord.gg/sEMBdz86q",
+  "discordLink": "discordLink",
   "admins": ["YourMcName"],
   "owners": ["YourMcName"],
   "boosters": [],
